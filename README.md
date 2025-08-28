@@ -4,7 +4,7 @@ A simple web application that allows users to submit and manage monetary transac
 
 ## Why?
 
-This project is part of the selection process for [PayPal](https://www.hays.com.br/). It involves developing a frontend and backend application transaction app using ReactJS and TypeScript.
+This project is part of the selection process for [PayPal](https://www.paypal.com/br/home). It involves developing a frontend and backend application transaction app using ReactJS and TypeScript.
 
 ![Application Screenshots](https://i.imgur.com/UCk6dht.png)
 
